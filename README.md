@@ -1,16 +1,12 @@
-### Hi there 👋
+Über mich:
+Ich bin eine intrinsisch-motivierte Person, die gerne im Team arbeitet und neue kreative 
+und verbesserte Lösungen weiterentwickelt.
 
-<!--
-**RomanProjekt/RomanProjekt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um immer auf dem aktuellen Stand zu sein, verbessere ich meine derzeitigen IT-Kenntnisse 
+und bringe mir neue Programmiersprachen (z.B.: Typescript, C#) , sowie moderne Frameworks 
+(z.B.: Spring Boot, Angular) und Restful (mit Spring Boot) mit Bücher, Tutorials bei.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dieses gelernte IT-Wissen setze ich in privaten praktischen Beispielen, sowie in eigenen 
+privaten Projekten um. Diese praxisbezogenen Projekte werden in meinem Github verwaltet. 
+Dabei versuche ich neue Skills zu erlernen und verbesserte Lösungen beim Programmieren 
+zu entwickeln.
