@@ -44,3 +44,18 @@ zu entwickeln.
   - Hinzufügen von Swing-Komponenten (z.B.:  grafische Tabellen)
   - Programmieren einfacher und komplexer Logikbausteine für die grafische Benutzeroberfläche
   - Manueller Test
+- Programmieren neuer Verwaltungsprogramme
+  - Importprogramm (Datenerfassung von externen Schnittstellen)
+  - Verwaltungsprogramm zur Anzeige von Tankstellendaten
+  - Etikettendruck-Layout bzw. Drucklayouts erstellen für den Verkauf
+  - Verwaltungsprogramm zur Darstellung der Umsatzstatistik von Artikeln
+- Webapplikation: Bibliothek für Diplomarbeiten
+  - In der Diplomarbeit entwickelten wir eine Webapplikationzur Verwaltung von Diplomarbeiten. Dabei konnte man Diplomarbeiten hochladen und in einer digitalen Bibliothek speichern.
+  - Team: 2 Personen
+  - Aufgabe: Front- und Backendentwicklung
+      - Frontend-Design der gesamten Webapplikation
+      - Backendentwicklung:
+        - Upload und Download der Diplomarbeiten
+        - Auslesen und Anzeigen aller Diplomarbeiten
+        - Passwort-Rücksetzung per Email
+      - Verwendete Tools: JavaServer Faces, Java, SQL, MySQL, Git
