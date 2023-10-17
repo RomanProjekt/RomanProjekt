@@ -31,6 +31,7 @@ zu entwickeln.
 - Sonstiges: Postman, Linux (z.B.: Ubuntu)
 
 # Projektübersicht: 
+
 - Pair-Programming - Pipeline
   - Pair-Programming - Packer, Teraform -> verschiedene Build Services erstellen
   - Waiting-Step: Script schreiben, um einen verspätenden Step zu starten.
