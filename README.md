@@ -36,3 +36,6 @@ zu entwickeln.
   - Waiting-Step: Script schreiben, um einen verspätenden Step zu starten
   - Das Script so lange in einer Schleife laufen lassen, bis von der Azure
   - Devops Server Api einen Response (aller verfügbaren Build-Services warten) zurückkommt, um den nächsten Step zu starten
+- Ticket Bearbeitung - ERP Software
+  - Beim Debuggen bzw. bei der Fehlersuche bearbeitete ich kleine bis mittelgroße Tickets für ein ERP System.
+  - Dabei löste ich Fehler im gesamten Warenwirtschaftsprozess (z.B.: Einkauf, Verkauf und Lagerbestand)
