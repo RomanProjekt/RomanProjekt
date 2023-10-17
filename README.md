@@ -39,3 +39,8 @@ zu entwickeln.
 - Ticket Bearbeitung - ERP Software
   - Beim Debuggen bzw. bei der Fehlersuche bearbeitete ich kleine bis mittelgroße Tickets für ein ERP System.
   - Dabei löste ich Fehler im gesamten Warenwirtschaftsprozess (z.B.: Einkauf, Verkauf und Lagerbestand)
+- Neuentwicklungen - ERP-Software
+  - Erweiterung neuer Datenbankfelder/Erstellen neuer Tabellen
+  - Hinzufügen von Swing-Komponenten (z.B.:  grafische Tabellen)
+  - Programmieren einfacher und komplexer Logikbausteine für die grafische Benutzeroberfläche
+  - Manueller Test
