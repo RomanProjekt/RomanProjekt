@@ -30,29 +30,7 @@ zu entwickeln.
 - Container-/Virtualisierung: Docker, Oracle VM Virutalbox
 - Sonstiges: Postman, Linux (z.B.: Ubuntu)
 
-# Projektübersicht: 
 
-- Pair-Programming - Pipeline
-  - Pair-Programming - Packer, Teraform -> verschiedene Build Services erstellen
-  - Waiting-Step: Script schreiben, um einen verspätenden Step zu starten.
-  - Das Script so lange in einer Schleife laufen lassen, bis von der Azure Devops Server Api einen Response
-    (aller verfügbaren Build-Services warten) zurückkommt, um den nächsten Step zu starten
-- Ticket Bearbeitung - ERP Software
-  - Beim Debuggen bzw. bei der Fehlersuche bearbeitete ich kleine bis mittelgroße Tickets für ein ERP System.
-  - Dabei löste ich Fehler im gesamten Warenwirtschaftsprozess (z.B.: Einkauf, Verkauf und Lagerbestand)
-- Neuentwicklungen - ERP-Software
-  - Erweiterung neuer Datenbankfelder/Erstellen neuer Tabellen
-  - Hinzufügen von Swing-Komponenten (z.B.:  grafische Tabellen)
-  - Programmieren einfacher und komplexer Logikbausteine für die grafische Benutzeroberfläche
-  - Manueller Test
-- Programmieren neuer Verwaltungsprogramme
-  - Importprogramm (Datenerfassung von externen Schnittstellen)
-  - Verwaltungsprogramm zur Anzeige von Tankstellendaten
-  - Etikettendruck-Layout bzw. Drucklayouts erstellen für den Verkauf
-  - Verwaltungsprogramm zur Darstellung der Umsatzstatistik von Artikeln
-- Webapplikation: Bibliothek für Diplomarbeiten
-  - In der Diplomarbeit entwickelten wir eine Webapplikationzur Verwaltung von Diplomarbeiten.
-    Dabei konnte man Diplomarbeiten hochladen und in einer digitalen Bibliothek speichern.
   - Team: 2 Personen
   - Aufgabe: Front- und Backendentwicklung
       - Frontend-Design der gesamten Webapplikation
