@@ -23,7 +23,7 @@ zu entwickeln.
 - Build managment: Maven
 - Web server: Apache Tomcat, TomEE, Glasfish
 
-# DERZEIT BRINGE ICH MIR FOLGENDE GRUNDLAGEN BEI:
+# Derzeit bringe ich mir folgende Grundlagen bei:
 - Java Framework: Spring Framework 6.0, Spring Boot 3.0
 - Webentwicklung: Angular
 - Programmiersprachen: C#, Kotlin
