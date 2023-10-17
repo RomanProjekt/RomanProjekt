@@ -1,5 +1,4 @@
-
-##Über mich:
+# Über mich:
 Ich bin eine intrinsisch-motivierte Person, die gerne im Team arbeitet und neue kreative 
 und verbesserte Lösungen weiterentwickelt.
 
