@@ -19,7 +19,7 @@ zu entwickeln.
 - Testframework: JUnit 5
 - IDE Netbeans 8.2, 12; Intellij, Visual Studio, VS Code
 - Version management: CVS, GIT, Github, Bitbucket
-- Project management: agile sotware development
+- Project management: Agile sotware development
 - Build managment: Maven
 - Web server: Apache Tomcat, TomEE, Glasfish
 
