@@ -10,12 +10,12 @@ These practical projects are managed in my Github.
 Thereby I try to learn new skills and develop improved solutions in programming.
 
 # Techstack:
-- Programming language:: Java
+- Programming language: Java
 - Java web application: JavaServer Faces (JSF 2.0), BootsFaces
 - Web development: HTML, CSS, JavaScript, Typescript
 - Database experience: Informix, XAMPP, MySQL, Oracle, SQL
 - Test framework: JUnit 5
-- IDE Netbeans 8.2, 12; Intellij, Visual Studio, VS Code
+- IDE: Netbeans 8.2, 12; Intellij, Visual Studio, VS Code
 - Version management: CVS, GIT, Github, Bitbucket
 - Project management: Agile sotware development
 - Build managment: Maven
