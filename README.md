@@ -1,31 +1,29 @@
-# Über mich:
-Ich bin eine intrinsisch-motivierte Person, die gerne im Team arbeitet und neue kreative 
-und verbesserte Lösungen weiterentwickelt.
+# About me:
+I am an intrinsically-motivated person who enjoys working in a team and developing new creative and improved solutions.
 
-Um immer auf dem aktuellen Stand zu sein, verbessere ich meine derzeitigen IT-Kenntnisse 
-und bringe mir neue Programmiersprachen (z.B.: Typescript, C#) , sowie moderne Frameworks 
-(z.B.: Spring Boot, Angular) und Restful (mit Spring Boot) mit Bücher, Tutorials bei.
+To be always up to date, I improve my current IT knowledge and teach myself new programming languages 
+(e.g.: Typescript, C#), as well as modern frameworks (e.g.: Spring Boot, Angular) 
+and Restful (with Spring Boot) with books and tutorials.
 
-Dieses gelernte IT-Wissen setze ich in privaten praktischen Beispielen, sowie in eigenen 
-privaten Projekten um. Diese praxisbezogenen Projekte werden in meinem Github verwaltet. 
-Dabei versuche ich neue Skills zu erlernen und verbesserte Lösungen beim Programmieren 
-zu entwickeln.
+I implement this learned IT knowledge in private practical examples, as well as in my own private projects. 
+These practical projects are managed in my Github. 
+Thereby I try to learn new skills and develop improved solutions in programming.
 
 # Techstack:
-- Programmiersprache: Java
-- Java Webentwicklung: JavaServer Faces (JSF 2.0), BootsFaces
-- Webentwicklung: HTML, CSS, JavaScript, Typescript
-- Database: Informix, XAMPP, MySQL, Oracle, SQL
-- Testframework: JUnit 5
+- Programming language:: Java
+- Java web application: JavaServer Faces (JSF 2.0), BootsFaces
+- Web development: HTML, CSS, JavaScript, Typescript
+- Database experience: Informix, XAMPP, MySQL, Oracle, SQL
+- Test framework: JUnit 5
 - IDE Netbeans 8.2, 12; Intellij, Visual Studio, VS Code
 - Version management: CVS, GIT, Github, Bitbucket
 - Project management: Agile sotware development
 - Build managment: Maven
 - Web server: Apache Tomcat, TomEE, Glasfish
 
-# Derzeit bringe ich mir folgende Grundlagen bei:
-- Java Framework: Spring Framework 6.0, Spring Boot 3.0
-- Webentwicklung: Angular
-- Programmiersprachen: C#, Kotlin
-- Container-/Virtualisierung: Docker, Oracle VM Virutalbox
-- Sonstiges: Postman, Linux (z.B.: Ubuntu)
+# CURRENTLY I AM TECHING MYSERLF THE FOLLOWING BASICS
+- Java framework: Spring Framework 6.0, Spring Boot 3.0
+- Web development: Angular
+- Programming language: C#, Kotlin
+- Container-/Virtualization: Docker, Oracle VM Virutalbox
+- Further skills: Postman, Linux (z.B.: Ubuntu)
