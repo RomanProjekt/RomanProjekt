@@ -25,5 +25,5 @@ Thereby I try to learn new skills and develop improved solutions in programming.
 - Java framework: Spring Framework 6.0, Spring Boot 3.0
 - Web development: Angular
 - Programming language: C#, Kotlin
-- Container-/Virtualization: Docker, Oracle VM Virutalbox
+- Container/Virtualization: Docker, Oracle VM Virutalbox
 - Further skills: Postman, Linux (z.B.: Ubuntu)
