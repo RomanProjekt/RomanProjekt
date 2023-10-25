@@ -1,4 +1,6 @@
 # About me:
+Hello, I am Roman!
+
 I am an intrinsically-motivated person who enjoys working in a team and developing new creative and improved solutions.
 
 To be always up to date, I improve my current IT knowledge and teach myself new programming languages 
