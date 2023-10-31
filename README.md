@@ -1,11 +1,11 @@
 # About me:
-Hello, I am Roman!
+Hello, I am Roman and software developer!
 
 I am an intrinsically-motivated person who enjoys working in a team and developing new creative and improved solutions.
 
 To be always up to date, I improve my current IT knowledge and teach myself new programming languages 
-(e.g.: Typescript, C#), as well as modern frameworks (e.g.: Spring Boot, Angular) 
-and Restful (with Spring Boot) with books and tutorials.
+(e.g.: Typescript, C#), as well as modern frameworks (e.g.: Spring Boot, Angular + Restful) 
+with books, tutorials and documentations.
 
 I implement this learned IT knowledge in private practical examples, as well as in my own private projects. 
 These practical projects are managed in my Github. 
