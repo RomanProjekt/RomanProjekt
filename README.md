@@ -23,7 +23,7 @@ Thereby I try to learn new skills and develop improved solutions in programming.
 - Build managment: Maven
 - Web server: Apache Tomcat, TomEE, Glasfish
 
-# CURRENTLY I AM TECHING MYSERLF THE FOLLOWING BASICS
+# I am currently expanding my IT skills in the following areas
 - Java framework: Spring Framework 6.0, Spring Boot 3.0
 - Web development: Angular
 - Programming language: C#, Kotlin
