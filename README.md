@@ -11,8 +11,6 @@ I implement this learned IT knowledge in private practical examples, as well as 
 These practical projects are managed in my Github. 
 Thereby I try to learn new skills and develop improved solutions in programming.
 
-# Projects:
-
 # Techstack:
 - Programming language: Java
 - Java web application: JavaServer Faces (JSF 2.0), BootsFaces
